@@ -1,13 +1,13 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: Analytics App
+thumbnail-path: "img/analytics_app.png"
+short-description: Build an analytics service and reporting tool that you can use with web apps to track user activity and report results.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/analytics_app.png)
 
 ## Explanation
 

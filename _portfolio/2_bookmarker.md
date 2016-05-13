@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: Bookmarker
+thumbnail-path: "img/Bookmarker.png"
+short-description: Build a production quality social bookmarking app that allows users to email, manage and share bookmarked URLs.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/bookmarker.png)
 
 ## Explanation
 
