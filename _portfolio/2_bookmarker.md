@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bookmarker
-thumbnail-path: "img/Bookmarker.png"
+thumbnail-path: "img/bookmarker.png"
 short-description: Build a production quality social bookmarking app that allows users to email, manage and share bookmarked URLs.
 
 ---
