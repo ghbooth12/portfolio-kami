@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/ghbooth12.github.io" # the subpath of your site, e.g. /blog/
-url: "http://ghbooth12.github.io" # the base hostname & protocol for your site
+url: "http://www.adeptwebdev.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
